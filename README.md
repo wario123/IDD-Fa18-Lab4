@@ -25,6 +25,8 @@ Should connect to pin 9.
 
 **b. What aspects of the Servo code control angle or speed?**
 
+The delay function controls the speed of the motor while the parameters in the for loop control the angle. (0 to 180)
+
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
