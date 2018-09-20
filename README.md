@@ -13,9 +13,15 @@
 
 **a. Which color wires correspond to power, ground and signal?**
 
+Brown: Ground
+Red: Power
+Yellow: Signal
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
+
+Should connect to pin 9.
 
 **b. What aspects of the Servo code control angle or speed?**
 
