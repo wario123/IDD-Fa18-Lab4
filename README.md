@@ -35,6 +35,8 @@ The delay function controls the speed of the motor while the parameters in the f
 
 **a. Make a video of your proto puppet.**
 
+[Link to video!](https://youtu.be/NhTXs7r2FSE)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
