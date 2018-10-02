@@ -39,3 +39,4 @@ The delay function controls the speed of the motor while the parameters in the f
 
 **a. Make a video of your final design.**
  
+ [Link to video!](https://www.youtube.com/watch?v=Fm5OdiDK5F8&feature=youtu.be)
